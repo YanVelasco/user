@@ -10,7 +10,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "phone")
+@Table(name = "tb_phones")
 @Builder
 public class PhoneEntity {
 
